@@ -11,8 +11,8 @@ first repository
 - item 1
 - item 2
 
-"bold"
+**bold
 
 _italic_
 
-'code_snippet'
+code_snippet'
