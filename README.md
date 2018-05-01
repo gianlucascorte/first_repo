@@ -11,7 +11,7 @@ first repository
 - item 1
 - item 2
 
-**bold
+**bold**
 
 _italic_
 
