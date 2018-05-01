@@ -9,9 +9,10 @@ first repository
 ### try 3
 
 - item 1
--item 2
+- item 2
 
 "bold"
+
 _italic_
 
 'code_snippet'
